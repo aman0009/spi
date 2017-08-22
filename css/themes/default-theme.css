@@ -1,0 +1,139 @@
+
+.scrollToTop{
+	background-color: #653a8c;
+}
+.scrollToTop:hover,.scrollToTop:focus{
+  background-color: #fff;
+  color: #653a8c;
+  border: 1px solid #653a8c;
+}
+.navbar-brand > span {
+  color: #2da2c8;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { 
+  color: #2da2c8;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: #2da2c8;
+}
+.slider_btn:hover,.slider_btn:focus{
+	border-color:#653a8c;
+	color: #653a8c;
+}
+.slides-navigation a::before,
+.slides-navigation a::after,
+.slides-navigation .icon-wrap::before,
+.slides-navigation .icon-wrap::after {
+	background: #653a8c;
+}
+.slides-pagination a {
+  border: 2px solid #653a8c;
+}
+.heading h2 {
+  border-bottom: 11px solid#653a8c;
+}
+.panel-title a:hover{
+	color: #653a8c;		
+}
+.panel-title a span{
+  color:#653a8c;		
+}
+.service_icon{
+	background-color: #653a8c;
+}
+
+.single_service:hover .service_icon{	
+	color: #653a8c;
+	border: 2px solid #653a8c;
+	background-color: #fff;
+}
+.single_service:hover .service_title{
+	color: #653a8c;
+}
+.single_service > .service_title:after {
+  background-color:#653a8c;
+}
+.heading h3 {
+  border-bottom: 5px solid #653a8c;
+}
+.fa-2x {
+  color:#653a8c;
+}
+.single_team span {
+  color: #653a8c;
+}
+.team_social a:hover,.team_social a:focus{
+	background-color: #653a8c;
+}
+.slick-prev, .slick-next {
+  background-color:#653a8c;
+}
+.single_price .price {
+  background-color:#653a8c; 
+}
+.price_btn {
+  background-color: #653a8c;
+  border: 1px solid #653a8c;
+}
+.price_btn:hover{
+	color: #653a8c !important;
+}
+.business_price {
+  background-color:#653a8c !important;
+}
+.business_price .price_btn{	
+	color: #653a8c !important;
+}
+.post_commentbox a:hover, .post_commentbox span:hover{
+	color: #3b165c;
+}
+.read_more{
+	color:#653a8c;	
+}
+.read_more:hover,.read_more:focus{
+	border-bottom: 2px solid#653a8c;
+}
+.testi_media .media-body span {
+  color: #653a8c;
+}
+.testimonial_slider .slick-dots li.slick-active button{
+  background: none repeat scroll 0 0 #653a8c;  
+}
+.submit_btn {
+  background-color: #653a8c;
+}
+.submit_btn:hover{
+	color: #653a8c;
+	border-color: #653a8c;
+}
+.form-control:focus {
+  border-color: #653a8c;
+}
+.wagwep-container ul#portfolio-filter a:hover{
+  background-color: #653a8c;
+}
+.wagwep-container ul#portfolio-filter li.current a {
+  background:#653a8c;  
+}
+.single_contact_feaured > i {
+  color: #653a8c;
+}
+.subscr_btn {
+  background-color: #653a8c;
+}
+.footer_left > p a {
+  color: #653a8c;
+  font-weight: bold;
+}
+.social_nav li a:hover{
+  color: #653a8c;
+  border-color: #653a8c; 
+}
+.panel-default .in{
+  border-color: #653a8c;
+  border-left: 5px solid #653a8c;
+}
+.about_slider .slick-dots li.slick-active button:before {
+  color: #3b165c;
+}
